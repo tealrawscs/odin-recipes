@@ -1,3 +1,2 @@
-3 recipes: Carbonara, Fish and Chips and Chicken Wings
-
-Hello Odin!
+Creating a website that will display 3 recipes: Carbonara, Fish and Chips and Chicken Wings
+Skills demonstrated: Basic website structure including hyperlinks with proper headers and descriptions and paragraphs
